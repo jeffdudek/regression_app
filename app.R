@@ -1,6 +1,5 @@
 library(shiny)
 library(ggplot2)
-library(rdrop2)
 library(zoo)
 library(shinyjs)
 selmin <- 0 
